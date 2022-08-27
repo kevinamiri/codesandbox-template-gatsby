@@ -12,6 +12,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-charts": "^20.2.45",
     "gatsby": "^4.7.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
